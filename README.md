@@ -17,6 +17,8 @@ The main goal of this dashboard is to explore and understand pizza sales trends,
 - How many total orders were placed?
 - Which ingredients are most frequently used across different pizza categories?
 
+- Dashboard Interaction <a href="https://github.com/imbhagya/Pizza-Order-Analytics/blob/main/Pizza%20Order%20Analytics%20Dashboard.pbix">View Dashboard</a>
+
 ## Project Process
 - Analyzed the pizza sales dataset to understand key fields like category, size, price, and date.
 - Cleaned and prepared the data by formatting dates and creating calculated columns.
