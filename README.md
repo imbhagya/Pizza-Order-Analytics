@@ -18,9 +18,9 @@ The main goal of this dashboard is to explore and understand pizza sales trends,
 - Which ingredients are most frequently used across different pizza categories?
 
 ## Project Process
-Analyzed the pizza sales dataset to understand key fields like category, size, price, and date.
-Cleaned and prepared the data by formatting dates and creating calculated columns.
-Built DAX measures to calculate total pizzas sold, total orders, average order value, revenue trends, and performance metrics.
-Designed the dashboard in Power BI using KPI cards, bar charts, line graphs, and pie charts.
-Structured visuals across two pages for better clarity and user experience.
-Reviewed and tested all visuals and filters, then documented and uploaded the project to GitHub.
+- Analyzed the pizza sales dataset to understand key fields like category, size, price, and date.
+- Cleaned and prepared the data by formatting dates and creating calculated columns.
+- Built DAX measures to calculate total pizzas sold, total orders, average order value, revenue trends, and performance metrics.
+- Designed the dashboard in Power BI using KPI cards, bar charts, line graphs, and pie charts.
+- Structured visuals across two pages for better clarity and user experience.
+- Reviewed and tested all visuals and filters, then documented and uploaded the project to GitHub.
