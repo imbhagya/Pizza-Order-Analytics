@@ -24,3 +24,6 @@ The main goal of this dashboard is to explore and understand pizza sales trends,
 - Designed the dashboard in Power BI using KPI cards, bar charts, line graphs, and pie charts.
 - Structured visuals across two pages for better clarity and user experience.
 - Reviewed and tested all visuals and filters, then documented and uploaded the project to GitHub.
+
+- <a href="https://github.com/imbhagya/Pizza-Order-Analytics/blob/main/Pizza%20Order%20Analytics.png">Pizza Order Analyst</a>
+
