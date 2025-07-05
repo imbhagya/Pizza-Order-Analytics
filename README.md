@@ -26,8 +26,9 @@ The main goal of this dashboard is to explore and understand pizza sales trends,
 - Reviewed and tested all visuals and filters, then documented and uploaded the project to GitHub.
 
 ## Dashboard
-- <a href="https://github.com/imbhagya/Pizza-Order-Analytics/blob/main/Pizza%20Order%20Analytics.png">Pizza Order Analyst</a>
-- <a href="https://github.com/imbhagya/Pizza-Order-Analytics/blob/main/Pizza%20Performance.png">Pizza Performance</a>
+<img width="629" alt="Pizza Order Analytics" src="https://github.com/user-attachments/assets/8c251241-4d5d-43f0-9a4d-e7ed4c235243" />
+<img width="632" alt="Pizza Performance" src="https://github.com/user-attachments/assets/88d25e5c-dd5a-4529-8932-398e23123e5d" />
+
 
 ## Project Insights
 - Classic and Veggie pizzas generate the most revenue.
