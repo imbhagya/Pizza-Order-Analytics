@@ -30,11 +30,11 @@ The main goal of this dashboard is to explore and understand pizza sales trends,
 - <a href="https://github.com/imbhagya/Pizza-Order-Analytics/blob/main/Pizza%20Performance.png">Pizza Performance</a>
 
 ## Project Insights
-Classic and Veggie pizzas generate the most revenue.
-Medium size is the most popular.
-Sales peak on Fridays and Saturdays.
-Top 5 pizzas contribute most to overall sales.
-Ingredient use varies by category.
+- Classic and Veggie pizzas generate the most revenue.
+- Medium size is the most popular.
+- Sales peak on Fridays and Saturdays.
+- Top 5 pizzas contribute most to overall sales.
+- Ingredient use varies by category.
 
 ## Project Conclusion
 This dashboard provides a clear view of pizza sales performance, helping identify trends and best-selling products. It supports data-driven decisions for business improvement.
